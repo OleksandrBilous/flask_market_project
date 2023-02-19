@@ -1,6 +1,6 @@
 # Flask Market
 <h1 align="center">Hi there, I'm Oleksandr <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-That's my fist Flask and HTML/CSS experiance.
+That's my first Flask and HTML/CSS experiance.
 
 I have completed my first web project where You can navigate through different tabs of the store and see the gadgets in different categories
 ![image](https://user-images.githubusercontent.com/119871133/219897082-19dde616-08a0-4d4c-bbad-d0962b5c6967.png)
